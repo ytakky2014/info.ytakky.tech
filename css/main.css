@@ -1,0 +1,33 @@
+.padding-right {
+    margin-right: 16px;
+}
+.card-square.mdl-card {
+    width: 240px;
+    height: 240px;
+}
+.card-rectangle.mdl-card {
+    width: 960px;
+    height: 60px;
+    min-height: 0px;
+}
+.card-rectangle > .mdl-card__title {
+    color: #fff;
+    background: #00bfff
+}
+.card-square > .mdl-card__title {
+    color: #fff;
+    background:
+        bottom right 15% no-repeat #46B6AC;
+}
+.avater {
+    width: 48px;
+    height: 48px;
+    border-radius: 24px;
+    margin-right: 48px;
+}
+.h3 {
+    margin-top: 48px;
+    }
+.mdl-cell {
+    box-sizing: border-box;
+}
