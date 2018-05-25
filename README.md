@@ -1,3 +1,3 @@
 # My Profile
 
-[http://info.ytakky.tech](http://info.ytakky.tech)
+[http://info.ytakky.com](http://info.ytakky.com)
